@@ -30,4 +30,5 @@ menu:
     identifier: _index
     url: "/"
     weight: 1
+
 ---
